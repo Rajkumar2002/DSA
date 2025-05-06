@@ -18,7 +18,3 @@ int main(){
 };
 //TC: O(log10(N)+1)
 //SC: O(1)
-
-/*Appraoch:
-  
-*/
